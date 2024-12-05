@@ -1,4 +1,4 @@
-# Smart-Whellchair-Project
+# Smart-Wheelchair-Project
 
 Traditional wheelchairs, while essential for mobility, are limited in functionality. They typically lack advanced features like health monitoring, environmental sensors, and enhanced safety capabilities, which can make it challenging for users to move independently and stay safe. A smart wheelchair, however, addresses these gaps, offering a more comprehensive solution to support users’ well-being and safety.
 
